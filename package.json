@@ -1,0 +1,27 @@
+{
+  "name": "koa-session-middle",
+  "version": "1.0.0",
+  "description": "a session middle for koa using cookie and token",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "nodemon --exec node ./test/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superbear24/koa-session-middle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superbear24/koa-session-middle/issues"
+  },
+  "homepage": "https://github.com/superbear24/koa-session-middle#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "koa": "^2.11.0"
+  }
+}
