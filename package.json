@@ -1,7 +1,7 @@
 {
-  "name": "koa-session-middle",
+  "name": "koa-url-privilege-middle",
   "version": "1.0.0",
-  "description": "a session middle for koa using cookie and token",
+  "description": "a url-privilege middle for koa",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/superbear24/koa-session-middle.git"
+    "url": "git+https://github.com/superbear24/koa-url-privilege-middle.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/superbear24/koa-session-middle/issues"
+    "url": "https://github.com/superbear24/koa-url-privilege-middle/issues"
   },
-  "homepage": "https://github.com/superbear24/koa-session-middle#readme",
+  "homepage": "https://github.com/superbear24/koa-url-privilege-middle#readme",
   "devDependencies": {
     "nodemon": "^1.19.4",
     "koa": "^2.11.0"
